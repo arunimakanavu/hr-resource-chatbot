@@ -1,0 +1,165 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "skills": ["Python", "React", "AWS"],
+        "experience_years": 5,
+        "projects": ["E-commerce Platform", "Healthcare Dashboard"],
+        "availability": "available"
+      },
+      {
+        "id": 2,
+        "name": "Michael Rodriguez",
+        "skills": ["Java", "Spring Boot", "Docker"],
+        "experience_years": 4,
+        "projects": ["Inventory Management System", "Patient Risk Prediction System"],
+        "availability": "busy"
+      },
+      {
+        "id": 3,
+        "name": "Sarah Chen",
+        "skills": ["TensorFlow", "PyTorch", "Medical Imaging"],
+        "experience_years": 6,
+        "projects": ["Medical Diagnosis Platform", "Clinical Data Pipeline"],
+        "availability": "available"
+      },
+      {
+        "id": 4,
+        "name": "Rajiv Mehta",
+        "skills": ["Node.js", "MongoDB", "AWS Lambda"],
+        "experience_years": 3,
+        "projects": ["Serverless CRM", "Chatbot Integration"],
+        "availability": "available"
+      },
+      {
+        "id": 5,
+        "name": "Emily Brown",
+        "skills": ["React Native", "UI/UX Design", "Firebase"],
+        "experience_years": 2,
+        "projects": ["Mobile Banking App", "Fitness Tracker"],
+        "availability": "busy"
+      },
+      {
+        "id": 6,
+        "name": "Ahmed Khan",
+        "skills": ["C#", ".NET", "Azure"],
+        "experience_years": 7,
+        "projects": ["Payroll System", "Healthcare Compliance Tools"],
+        "availability": "available"
+      },
+      {
+        "id": 7,
+        "name": "Priya Verma",
+        "skills": ["Python", "NLP", "Hugging Face"],
+        "experience_years": 4,
+        "projects": ["Resume Screening Bot", "Chat Summarizer"],
+        "availability": "available"
+      },
+      {
+        "id": 8,
+        "name": "Daniel White",
+        "skills": ["Go", "Kubernetes", "Docker"],
+        "experience_years": 5,
+        "projects": ["Cloud Monitoring Platform", "CI/CD Automation"],
+        "availability": "busy"
+      },
+      {
+        "id": 9,
+        "name": "Isha Kapoor",
+        "skills": ["SQL", "Power BI", "Data Warehousing"],
+        "experience_years": 3,
+        "projects": ["Sales Dashboard", "HR Analytics"],
+        "availability": "available"
+      },
+      {
+        "id": 10,
+        "name": "Tom Wilson",
+        "skills": ["JavaScript", "TypeScript", "GraphQL"],
+        "experience_years": 6,
+        "projects": ["Internal Tools Suite", "Project Management SaaS"],
+        "availability": "available"
+      },
+      {
+        "id": 11,
+        "name": "Maya Singh",
+        "skills": ["Machine Learning", "Pandas", "Scikit-learn"],
+        "experience_years": 4,
+        "projects": ["Churn Prediction", "Healthcare Readmission Model"],
+        "availability": "available"
+      },
+      {
+        "id": 12,
+        "name": "Lucas Silva",
+        "skills": ["DevOps", "Terraform", "AWS"],
+        "experience_years": 5,
+        "projects": ["Infrastructure as Code", "Cloud Security Setup"],
+        "availability": "busy"
+      },
+      {
+        "id": 13,
+        "name": "Anita Rao",
+        "skills": ["HTML", "CSS", "Vue.js"],
+        "experience_years": 3,
+        "projects": ["Company Website", "Employee Portal"],
+        "availability": "available"
+      },
+      {
+        "id": 14,
+        "name": "Victor Emmanuel",
+        "skills": ["Rust", "WebAssembly", "Blockchain"],
+        "experience_years": 2,
+        "projects": ["Smart Contract Explorer", "Decentralized Storage"],
+        "availability": "busy"
+      },
+      {
+        "id": 15,
+        "name": "Jasmine Patel",
+        "skills": ["Android", "Java", "Kotlin"],
+        "experience_years": 6,
+        "projects": ["Food Delivery App", "Health Monitoring App"],
+        "availability": "available"
+      },
+      {
+        "id": 16,
+        "name": "Ethan Lewis",
+        "skills": ["React", "Next.js", "Node.js"],
+        "experience_years": 4,
+        "projects": ["Portfolio Builder", "Recruitment System"],
+        "availability": "available"
+      },
+      {
+        "id": 17,
+        "name": "Ritu Sharma",
+        "skills": ["R", "Tableau", "Data Analysis"],
+        "experience_years": 3,
+        "projects": ["COVID-19 Visualization", "Survey Analytics"],
+        "availability": "available"
+      },
+      {
+        "id": 18,
+        "name": "Kevin O'Connor",
+        "skills": ["PHP", "Laravel", "MySQL"],
+        "experience_years": 5,
+        "projects": ["Legacy System Modernization", "E-learning Platform"],
+        "availability": "busy"
+      },
+      {
+        "id": 19,
+        "name": "Sneha Iyer",
+        "skills": ["AWS", "Docker", "Microservices"],
+        "experience_years": 4,
+        "projects": ["Scalable Backend for EdTech", "Containerized Workflow System"],
+        "availability": "available"
+      },
+      {
+        "id": 20,
+        "name": "Carlos Ramirez",
+        "skills": ["Flutter", "Firebase", "Cross-Platform Apps"],
+        "experience_years": 2,
+        "projects": ["Language Learning App", "Mental Health Tracker"],
+        "availability": "available"
+      }
+    ]
+  }
+  
