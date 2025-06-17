@@ -165,7 +165,7 @@ GET /employees/search?skill=Python&availability=available
 
 ## Demo
 
-> ![Screenshot](./assets/demo_screenshot.png)  
+> ![Screenshot](https://github.com/arunimakanavu/hr-resource-chatbot/blob/main/image.png)
 > Example Query: `"Who has worked on healthcare projects?"`  
 > Returns: Based on the employee data provided, I would suggest Alice Johnson and Sarah Chen as suitable candidates for working on healthcare projects.
 
